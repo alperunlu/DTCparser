@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\bin\Debug\DTCparser.exe.config
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\bin\Debug\DTCparser.exe
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\bin\Debug\DTCparser.pdb
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.DTCparser.resources
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.Properties.Resources.resources
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.exe
+C:\Users\PC\Desktop\DEV&CODE\DTCparser\DTCparser\obj\Debug\DTCparser.pdb
