@@ -249,7 +249,7 @@
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox1);
             this.Name = "DTCparser";
-            this.Text = "DTCparser";
+            this.Text = "DTCparser v1.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 

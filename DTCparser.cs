@@ -21,11 +21,13 @@ namespace DTCparser
         private void button1_Click(object sender, EventArgs e)
         {
             string hexstring = textBox1.Text.ToString();
+            hexstring = hexstring.PadLeft(6, '0');
+            textBox1.Text = hexstring;
             string binarystring = String.Join(String.Empty, hexstring.Select(c => Convert.ToString(Convert.ToInt32(c.ToString(), 16), 2).PadLeft(4, '0')));
             textBox4.Text = binarystring;
 
             string FMIs = binarystring.Substring(19, 5);
-            string SPNs = binarystring.Substring(0, 19);
+            string SPNs = binarystring.Substring(17, 3) + binarystring.Substring(8, 8) + binarystring.Substring(0, 8);
             textBox2.Text = SPNs;
             textBox3.Text = FMIs;
 
